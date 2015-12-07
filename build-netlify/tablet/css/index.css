@@ -33,7 +33,7 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 1023.6000000000001px;
+	min-height: 1023.9749999999999px;
 	border-style: none;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -41,6 +41,11 @@
 	background: rgba(0,0,0,0) url("../../images/selvie-wonder-merged.jpg") no-repeat center center;
 	background-color: transparent;
 	background-size: contain !important;
+}
+
+#page_position_content
+{
+	margin-bottom: 2px;
 }
 
 #u116-4
@@ -61,25 +66,26 @@
 	margin-top: 317px;
 }
 
-#u118
+#u188
 {
 	z-index: 6;
-	width: 394px;
-	margin-left: 187px;
-	margin-top: 272px;
+	width: 548px;
+	margin-left: 110px;
+	margin-top: 299px;
 }
 
-#u115-4
+#u186-4
 {
 	z-index: 7;
 	margin-right: -10000px;
+	left: 70px;
 }
 
-#u117-4
+#u187-4
 {
 	z-index: 11;
 	margin-right: -10000px;
-	margin-top: 110px;
+	margin-top: 82px;
 }
 
 #page .verticalspacer

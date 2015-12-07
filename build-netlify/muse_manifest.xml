@@ -1,22 +1,22 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="320380170" ref="tablet>index"/>
-      <file name="index.css" crc="3761507545" ref="tablet>index"/>
+      <file name="master_a-master.css" crc="8039534" ref="tablet>index"/>
+      <file name="index.css" crc="4000671946" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="381277945" mt="1449507740475" redirect="true"/>
+    <file name="index.html" crc="4023953513" mt="1449510296359" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="86355625" ref="phone>index"/>
-      <file name="index.css" crc="3991961104" ref="phone>index"/>
+      <file name="master_a-master.css" crc="4263837937" ref="phone>index"/>
+      <file name="index.css" crc="149900139" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="159982250" mt="1449508027396" redirect="true"/>
+    <file name="index.html" crc="304245648" mt="1449510386148" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="77572331"/>
     <file name="master_a-master.css" crc="218274913" ref="index"/>
-    <file name="index.css" crc="353924906" ref="index"/>
+    <file name="index.css" crc="1764070" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:phone>index:tablet>index"/>
@@ -28,18 +28,19 @@
   </folder>
   <folder name="images">
     <file name="selvie-wonder-back.jpg" crc="4012461161" ref="index:phone>index:tablet>index"/>
-    <file name="selvie-wonder-merged-page-fr.jpg" crc="471568246" ref="phone>index:index"/>
+    <file name="selvie-wonder-merged-page-fr.jpg" crc="10778892" ref="phone>index"/>
     <file name="selvie-wonder-merged.jpg" crc="319903167" ref="index:phone>index:tablet>index"/>
     <file name="u116-4.png" crc="4096673821" ref="tablet>index"/>
-    <file name="u115-4.png" crc="4240233067" ref="tablet>index"/>
-    <file name="u117-4.png" crc="114485681" ref="tablet>index"/>
     <file name="u177-4.png" crc="38268417" ref="phone>index"/>
-    <file name="u180-4.png" crc="4253189670" ref="phone>index"/>
-    <file name="u179-4.png" crc="413144620" ref="phone>index"/>
     <file name="selvie-wonder-merged-page-fr2.jpg" crc="315311976" ref="tablet>index"/>
     <file name="u169-4.png" crc="4096673821" ref="index"/>
     <file name="u171-4.png" crc="4240233067" ref="index"/>
-    <file name="u172-4.png" crc="114485681" ref="index"/>
+    <file name="u172-4.png" crc="3999909132" ref="index"/>
+    <file name="u189-4.png" crc="167951707" ref="phone>index"/>
+    <file name="u190-4.png" crc="4067089075" ref="phone>index"/>
+    <file name="u186-4.png" crc="4240233067" ref="tablet>index"/>
+    <file name="u187-4.png" crc="3999909132" ref="tablet>index"/>
+    <file name="selvie-wonder-merged-page-fr3.jpg" crc="4121727009" ref="index"/>
   </folder>
-  <file name="index.html" crc="3833687199" mt="1449510106744" redirect="true"/>
+  <file name="index.html" crc="4111322542" mt="1449510282877" redirect="true"/>
 </manifest>
