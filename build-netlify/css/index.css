@@ -1,0 +1,78 @@
+.html
+{
+	background: #370002 url("../images/selvie-wonder-back.jpg") no-repeat center center scroll;
+	background-size: cover !important;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	border-style: none;
+	border-color: #000000;
+	margin-left: auto;
+	margin-right: auto;
+	background: transparent url("../images/selvie-wonder-merged-page-fr.jpg") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/selvie-wonder-merged.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: contain !important;
+}
+
+#page_position_content
+{
+	margin-top: 20px;
+	margin-bottom: -36px;
+}
+
+#u169-4
+{
+	z-index: 2;
+	margin-left: 230px;
+}
+
+#u173
+{
+	z-index: 15;
+	width: 920px;
+	min-height: 216px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 20px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u170
+{
+	z-index: 6;
+	width: 394px;
+	margin-left: 283px;
+	margin-top: 23px;
+}
+
+#u171-4
+{
+	z-index: 7;
+	margin-right: -10000px;
+}
+
+#u172-4
+{
+	z-index: 11;
+	margin-right: -10000px;
+	margin-top: 110px;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
