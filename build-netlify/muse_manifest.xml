@@ -4,17 +4,17 @@
       <file name="master_a-master.css" crc="8039534" ref="tablet>index"/>
       <file name="index.css" crc="4000671946" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4023953513" mt="1449510296359" redirect="true"/>
+    <file name="index.html" crc="4203644135" mt="1449511051483" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="4263837937" ref="phone>index"/>
       <file name="index.css" crc="149900139" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="304245648" mt="1449510386148" redirect="true"/>
+    <file name="index.html" crc="4267854063" mt="1449511051478" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="77572331"/>
+    <file name="site_global.css" crc="4278822440"/>
     <file name="master_a-master.css" crc="218274913" ref="index"/>
     <file name="index.css" crc="1764070" ref="index"/>
   </folder>
@@ -41,6 +41,7 @@
     <file name="u186-4.png" crc="4240233067" ref="tablet>index"/>
     <file name="u187-4.png" crc="3999909132" ref="tablet>index"/>
     <file name="selvie-wonder-merged-page-fr3.jpg" crc="4121727009" ref="index"/>
+    <file name="favicon.ico" crc="371231611" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="4111322542" mt="1449510282877" redirect="true"/>
+  <file name="index.html" crc="143563863" mt="1449511051492" redirect="true"/>
 </manifest>
