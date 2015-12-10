@@ -1,8 +1,8 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4014583083"/>
-    <file name="master_a-master-copy.css" crc="389629508" ref="index"/>
-    <file name="index.css" crc="431942161" ref="index"/>
+    <file name="master_a-master-copy.css" crc="470667263" ref="index"/>
+    <file name="index.css" crc="3769510347" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
@@ -13,11 +13,11 @@
   <folder name="images">
     <file name="live-up.-ep-favicon.ico" crc="371231611" ref="index"/>
     <file name="selvie-wonder-back.jpg" crc="4012461161" ref="index"/>
-    <file name="u202-4.png" crc="4096673821" ref="index"/>
+    <file name="u286-4.png" crc="4096673821" ref="index"/>
     <file name="selvie-wonder-cover.jpg" crc="3919413115" ref="index"/>
-    <file name="u201-4.png" crc="4240233067" ref="index"/>
-    <file name="u200-4.png" crc="3999909132" ref="index"/>
+    <file name="u288-4.png" crc="4240233067" ref="index"/>
+    <file name="u289-4.png" crc="3999909132" ref="index"/>
     <file name="lss-logo-inverted.png" crc="368432916" ref="index"/>
   </folder>
-  <file name="index.html" crc="4080661736" mt="1449758960193" redirect="true"/>
+  <file name="index.html" crc="3785030467" mt="1449759487155" redirect="true"/>
 </manifest>
