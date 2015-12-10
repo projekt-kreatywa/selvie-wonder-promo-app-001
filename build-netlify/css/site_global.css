@@ -81,34 +81,28 @@ body
 	body { text-rendering:auto; }
 }
 
-a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 a:link
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #3E3E3E;
+	text-decoration: none;
 }
 
 a:visited
 {
-	color: #800080;
-	text-decoration: underline;
+	color: #7F7F7F;
+	text-decoration: none;
 }
 
 a:hover
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #000000;
+	text-decoration: none;
 }
 
 a:active
 {
-	color: #EE0000;
-	text-decoration: underline;
+	color: #C1272D;
+	text-decoration: none;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -117,6 +111,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
+}
+
+.ts-Default-Link-Style--copy a
+{
+	color: inherit;
+	text-decoration: inherit;
 }
 
 .ts-Default-Link-Style--copy a:link
@@ -171,6 +171,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-family: DubTone;
 	font-size: 30px;
 	text-decoration: none;
+}
+
+.para1
+{
+	font-family: black-ops-one, sans-serif;
+	font-weight: 400;
 }
 
 .TabbedPanelsTab
