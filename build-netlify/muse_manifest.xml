@@ -1,49 +1,23 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
-  <folder name="tablet">
-    <folder name="css">
-      <file name="master_a-master.css" crc="8039534" ref="tablet>index"/>
-      <file name="index.css" crc="4000671946" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="4203644135" mt="1449758728434" redirect="true"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_a-master.css" crc="4263837937" ref="phone>index"/>
-      <file name="index.css" crc="149900139" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="4267854063" mt="1449758728435" redirect="true"/>
-  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4014583083"/>
-    <file name="index.css" crc="431942161" ref="index"/>
     <file name="master_a-master-copy.css" crc="389629508" ref="index"/>
+    <file name="index.css" crc="431942161" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:phone>index:tablet>index"/>
-    <file name="museutils.js" crc="3880880085" ref="index:phone>index:tablet>index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:phone>index:tablet>index"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:phone>index:tablet>index"/>
-    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="phone>index:tablet>index"/>
-    <file name="museredirect.js" crc="299715755" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
+    <file name="museutils.js" crc="3880880085" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="selvie-wonder-back.jpg" crc="4012461161" ref="index:phone>index:tablet>index"/>
-    <file name="selvie-wonder-merged-page-fr.jpg" crc="10778892" ref="phone>index"/>
-    <file name="selvie-wonder-merged.jpg" crc="319903167" ref="phone>index:tablet>index"/>
-    <file name="u116-4.png" crc="4096673821" ref="tablet>index"/>
-    <file name="u177-4.png" crc="38268417" ref="phone>index"/>
-    <file name="selvie-wonder-merged-page-fr2.jpg" crc="315311976" ref="tablet>index"/>
-    <file name="u189-4.png" crc="167951707" ref="phone>index"/>
-    <file name="u190-4.png" crc="4067089075" ref="phone>index"/>
-    <file name="u186-4.png" crc="4240233067" ref="tablet>index"/>
-    <file name="u187-4.png" crc="3999909132" ref="tablet>index"/>
-    <file name="favicon.ico" crc="371231611" ref="phone>index"/>
     <file name="live-up.-ep-favicon.ico" crc="371231611" ref="index"/>
+    <file name="selvie-wonder-back.jpg" crc="4012461161" ref="index"/>
     <file name="u202-4.png" crc="4096673821" ref="index"/>
     <file name="selvie-wonder-cover.jpg" crc="3919413115" ref="index"/>
     <file name="u201-4.png" crc="4240233067" ref="index"/>
     <file name="u200-4.png" crc="3999909132" ref="index"/>
     <file name="lss-logo-inverted.png" crc="368432916" ref="index"/>
   </folder>
-  <file name="index.html" crc="3899512474" mt="1449758838180" redirect="true"/>
+  <file name="index.html" crc="4080661736" mt="1449758960193" redirect="true"/>
 </manifest>
