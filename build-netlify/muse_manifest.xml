@@ -4,7 +4,7 @@
       <file name="master_a-master-copy.css" crc="470667263" ref="tablet>index"/>
       <file name="index.css" crc="533296859" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="293620045" mt="1449974690742" redirect="true"/>
+    <file name="index.html" crc="3981231808" mt="1449975938170" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4075846166"/>
@@ -30,5 +30,5 @@
     <file name="u342-4.png" crc="4240233067" ref="index"/>
     <file name="u343-4.png" crc="3999909132" ref="index"/>
   </folder>
-  <file name="index.html" crc="3986364510" mt="1449975043310" redirect="true"/>
+  <file name="index.html" crc="4069023430" mt="1449975946512" redirect="true"/>
 </manifest>
