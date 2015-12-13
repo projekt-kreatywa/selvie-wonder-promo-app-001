@@ -1,23 +1,34 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master-copy.css" crc="470667263" ref="tablet>index"/>
+      <file name="index.css" crc="533296859" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="293620045" mt="1449974690742" redirect="true"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4014583083"/>
-    <file name="master_a-master-copy.css" crc="470667263" ref="index"/>
-    <file name="index.css" crc="3769510347" ref="index"/>
+    <file name="site_global.css" crc="4075846166"/>
+    <file name="master_a-master-copy.css" crc="4020314772" ref="index"/>
+    <file name="index.css" crc="372875380" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
-    <file name="museutils.js" crc="3880880085" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:tablet>index"/>
+    <file name="museutils.js" crc="3880880085" ref="index:tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:tablet>index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:tablet>index"/>
+    <file name="museredirect.js" crc="299715755" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="live-up.-ep-favicon.ico" crc="371231611" ref="index"/>
-    <file name="selvie-wonder-back.jpg" crc="4012461161" ref="index"/>
-    <file name="u286-4.png" crc="4096673821" ref="index"/>
-    <file name="selvie-wonder-cover.jpg" crc="3919413115" ref="index"/>
-    <file name="u288-4.png" crc="4240233067" ref="index"/>
-    <file name="u289-4.png" crc="3999909132" ref="index"/>
-    <file name="lss-logo-inverted.png" crc="368432916" ref="index"/>
+    <file name="live-up.-ep-favicon.ico" crc="371231611" ref="tablet>index"/>
+    <file name="selvie-wonder-back.jpg" crc="4012461161" ref="index:tablet>index"/>
+    <file name="u286-4.png" crc="4096673821" ref="tablet>index"/>
+    <file name="selvie-wonder-cover.jpg" crc="3919413115" ref="index:tablet>index"/>
+    <file name="u288-4.png" crc="4240233067" ref="tablet>index"/>
+    <file name="u289-4.png" crc="3999909132" ref="tablet>index"/>
+    <file name="lss-logo-inverted.png" crc="368432916" ref="index:tablet>index"/>
+    <file name="u340-4.png" crc="4096673821" ref="index"/>
+    <file name="u342-4.png" crc="4240233067" ref="index"/>
+    <file name="u343-4.png" crc="3999909132" ref="index"/>
   </folder>
-  <file name="index.html" crc="3785030467" mt="1449759487155" redirect="true"/>
+  <file name="index.html" crc="3986364510" mt="1449975043310" redirect="true"/>
 </manifest>
