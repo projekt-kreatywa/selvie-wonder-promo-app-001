@@ -4,7 +4,7 @@
       <file name="master_a-master-copy.css" crc="470667263" ref="tablet>index"/>
       <file name="index.css" crc="533296859" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3981231808" mt="1449975938170" redirect="true"/>
+    <file name="index.html" crc="4210419281" mt="1449978219980" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4075846166"/>
@@ -19,7 +19,7 @@
     <file name="museredirect.js" crc="299715755" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="live-up.-ep-favicon.ico" crc="371231611" ref="tablet>index:index"/>
+    <file name="live-up.-ep-favicon.ico" crc="371231611" ref="tablet>index"/>
     <file name="selvie-wonder-back.jpg" crc="4012461161" ref="index:tablet>index"/>
     <file name="u286-4.png" crc="4096673821" ref="tablet>index"/>
     <file name="selvie-wonder-cover.jpg" crc="3919413115" ref="tablet>index"/>
@@ -28,5 +28,5 @@
     <file name="lss-logo-inverted.png" crc="368432916" ref="index:tablet>index"/>
     <file name="selvie-wonder-web-banner-003.jpg" crc="183063634" ref="index"/>
   </folder>
-  <file name="index.html" crc="156953436" mt="1449978011946" redirect="true"/>
+  <file name="index.html" crc="189537094" mt="1449978126393" redirect="true"/>
 </manifest>
