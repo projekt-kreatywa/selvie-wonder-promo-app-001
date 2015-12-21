@@ -2,14 +2,14 @@
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master-copy.css" crc="470667263" ref="tablet>index"/>
-      <file name="index.css" crc="533296859" ref="tablet>index"/>
+      <file name="index.css" crc="293060409" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4210419281" mt="1449978219980" redirect="true"/>
+    <file name="index.html" crc="307873360" mt="1450663209352" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4075846166"/>
     <file name="master_a-master-copy.css" crc="339857731" ref="index"/>
-    <file name="index.css" crc="241655381" ref="index"/>
+    <file name="index.css" crc="3908595656" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:tablet>index"/>
@@ -28,5 +28,5 @@
     <file name="lss-logo-inverted.png" crc="368432916" ref="index:tablet>index"/>
     <file name="selvie-wonder-web-banner-003.jpg" crc="183063634" ref="index"/>
   </folder>
-  <file name="index.html" crc="189537094" mt="1449978126393" redirect="true"/>
+  <file name="index.html" crc="4275053657" mt="1450663165134" redirect="true"/>
 </manifest>
